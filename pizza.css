@@ -1,0 +1,21 @@
+table{
+    background-image: url("https://img.freepik.com/free-photo/blur-coffee-cafe-shop-restaurant-with-bokeh-background_1421-472.jpg?w=1060&t=st=1670751973~exp=1670752573~hmac=863ae86751d7b557c798c7e3e0de770699d67ee381ca90501bcc7b1749da6d16");
+    background-position:;
+    table-layout: fixed;
+    table-layout:auto;
+}
+h1{
+    font-family: monospace;
+    color: aliceblue;
+}
+body{
+    background-image: url("https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+button{
+    font-size: xx-large;
+    background-color: coral;
+    font-family:fantasy;
+}

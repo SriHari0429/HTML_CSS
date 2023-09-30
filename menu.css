@@ -1,0 +1,37 @@
+h{
+    font-size: xxx-large;
+    font-style:var(20px);
+    text-shadow: 20px;
+    font-style: bold;
+    font-family:cursive;
+    font-variant: small-caps;
+    font-style:bold ;
+    background-color: rgb(0, 0, 0);
+}
+h2{
+  word-spacing: 40px;
+  width: 150px;
+  padding: 5px;
+  border: 10px solid rgb(226, 23, 23);
+  margin: 100px;
+  border-color: rgb(255, 255, 255);
+  border-collapse: separate;
+  border-spacing: 15px 50px;
+  
+}
+body{
+  background-image: url("https://images.pexels.com/photos/370799/pexels-photo-370799.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+h3{
+  word-spacing: 5px;
+  width: 60px;
+  padding: 2px;
+  border: 2px solid rgb(0, 0, 0);
+  margin: 25px;
+  border-color: rgb(248, 0, 0);
+  border-collapse: separate;
+  border-spacing: 15px 50px;
+}
